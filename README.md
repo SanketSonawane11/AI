@@ -1,6 +1,6 @@
 # My AI Learning Journey 🚀
 
-A public roadmap to track my progress in becoming an AI Engineer. This plan covers foundations, core machine learning, LLMs, MLOps, and specialization over a 24-30 month period.
+A public roadmap to track my progress in becoming an AI Engineer. This plan covers foundations, core machine learning, LLMs, MLOps, and specialisation over a 24-30 month period.
 
 ---
 
@@ -20,7 +20,7 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 - [ ] Math: Basic Calculus (derivatives, gradients)
 - [ ] Data Handling: Pandas for data manipulation
 - [ ] Data Handling: SQL for database querying
-- [ ] Data Handling: Matplotlib & Seaborn for visualization
+- [ ] Data Handling: Matplotlib & Seaborn for visualisation
 
 ### 🚀 Mini Projects
 - [ ] Project: Titanic survival classifier
@@ -64,7 +64,7 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 
 ### 🧠 Topics to Learn
 - [ ] Transformers: Attention mechanism, Encoders, Decoders
-- [ ] Hugging Face: `tokenizers`, `models`, `datasets` libraries
+- [ ] Hugging Face: `tokenisers`, `models`, `datasets` libraries
 - [ ] Fine-tuning: LoRA, PEFT, and instruction tuning
 - [ ] Prompting: Few-shot, Chain-of-Thought (CoT)
 - [ ] RAG: Embeddings and Vector Databases (Pinecone, Milvus, Weaviate)
@@ -123,7 +123,7 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 
 ---
 
-## Phase 5: Domain Specialization & Edge Skills (18–30 Months)
+## Phase 5: Domain Specialisation & Edge Skills (18–30 Months)
 
 **Goal:** Stand out by combining AI with industry expertise.
 
@@ -139,7 +139,7 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 - [ ] Logistics: Autonomous scheduling assistant
 
 ### 🛠️ Edge Skills
-- [ ] Master: AI Safety, bias evaluation, cost optimization, explainability (XAI)
+- [ ] Master: AI Safety, bias evaluation, cost optimisation, explainability (XAI)
 
 ---
 
@@ -148,7 +148,7 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 **Goal:** Showcase applied skills and land a high-value role.
 
 ### 📋 Portfolio Checklist
-- [ ] Finalize 3-5 full-stack AI projects
+- [ ] Finalise 3-5 full-stack AI projects
 - [ ] Create public GitHub repos with excellent READMEs and code
 - [ ] Host live demos on Streamlit Cloud or Hugging Face Spaces
 - [ ] Ensure MLOps pipelines (tracking, retraining) are visible and documented
@@ -157,7 +157,7 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 - [ ] Prepare for: LLM/Agent Engineer interviews
 - [ ] Prepare for: Multimodal AI Engineer interviews
 - [ ] Prepare for: MLOps Engineer interviews
-- [ ] Prepare for: Domain-specialized AI Engineer interviews
+- [ ] Prepare for: Domain-specialised AI Engineer interviews
 
 ---
 
