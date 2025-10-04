@@ -9,26 +9,26 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 **Goal:** Prepare programming, math, and data foundations.
 
 ### 🧠 Topics to Learn
-- [ ] Python: Syntax and core concepts
-- [ ] Python: Object-Oriented Programming (OOP)
-- [ ] Python: `virtualenv` for environment management
-- [ ] Python: Using and creating modules
-- [ ] Linux & Command-Line Interface (CLI) basics
-- [ ] Git & GitHub: Core workflow (clone, commit, push, pull, branch)
-- [ ] Math: Linear Algebra fundamentals (vectors, matrices, operations)
-- [ ] Math: Probability & Statistics fundamentals
-- [ ] Math: Basic Calculus (derivatives, gradients)
-- [ ] Data Handling: Pandas for data manipulation
-- [ ] Data Handling: SQL for database querying
-- [ ] Data Handling: Matplotlib & Seaborn for visualisation
+- [x] Python: Syntax and core concepts
+- [x] Python: Object-Oriented Programming (OOP)
+- [x] Python: `virtualenv` for environment management
+- [x] Python: Using and creating modules
+- [x] Linux & Command-Line Interface (CLI) basics
+- [x] Git & GitHub: Core workflow (clone, commit, push, pull, branch)
+- [x] Math: Linear Algebra fundamentals (vectors, matrices, operations)
+- [x] Math: Probability & Statistics fundamentals
+- [x] Math: Basic Calculus (derivatives, gradients)
+- [x] Data Handling: Pandas for data manipulation
+- [x] Data Handling: SQL for database querying
+- [x] Data Handling: Matplotlib & Seaborn for visualisation
 
 ### 🚀 Mini Projects
-- [ ] Project: Titanic survival classifier
-- [ ] Project: MNIST handwritten digit classifier
-- [ ] Project: Basic text sentiment analysis
+- [x] Project: Titanic survival classifier
+- [x] Project: MNIST handwritten digit classifier
+- [x] Project: Basic text sentiment analysis
 
 ### 🛠️ Stack
-- [ ] Master: Python, Jupyter Notebooks, Git, Pandas, Matplotlib
+- [x] Master: Python, Jupyter Notebooks, Git, Pandas, Matplotlib
 
 ---
 
@@ -37,8 +37,8 @@ A public roadmap to track my progress in becoming an AI Engineer. This plan cove
 **Goal:** Build a solid understanding of ML/DL principles.
 
 ### 🧠 Topics to Learn
-- [ ] Supervised Learning: Regression, Classification, Decision Trees
-- [ ] Evaluation: Metrics (Accuracy, Precision, Recall, F1), Cross-Validation
+- [x] Supervised Learning: Regression, Classification, Decision Trees
+- [x] Evaluation: Metrics (Accuracy, Precision, Recall, F1), Cross-Validation
 - [ ] Theory: Bias-Variance Tradeoff
 - [ ] Deep Learning: Multi-Layer Perceptrons (MLP)
 - [ ] Deep Learning: Convolutional Neural Networks (CNN)
